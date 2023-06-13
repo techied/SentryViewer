@@ -16,6 +16,6 @@ This is a simple viewer for Tesla Sentry Mode and TeslaCam recordings. It is wri
 
 ### Screenshots
 
-![list preview](img/img_list.png | width=150)
+![list preview](img/img_list.png)
 
-![player preview](img/img_player.png | width=150)
+![player preview](img/img_player.png)
